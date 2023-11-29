@@ -16,7 +16,7 @@ public class NewLoginTests {
     @Test
     public void loginSuccess(){
         // open form
-        wd.findElement(a[href="/login"]);
+
         //fill form
 
         // submit form
