@@ -9,6 +9,7 @@ public class TestSelenium {
 
     @Test
     public void test(){
+
         wd = new ChromeDriver();
 //        wd.get(url); without history
         wd.navigate().to(url);
